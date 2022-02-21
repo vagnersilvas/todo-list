@@ -1,5 +1,7 @@
 # todo-list
 
+[Confira o projeto aqui](https://vagnersilvas.github.io/todo-list/)
+
 <img src="https://github.com/vagnersilvas/todo-list/blob/main/assets/img/todoList.gif" width="800" height="400" />
 
 ## :desktop_computer: Tecnologias utilizadas
